@@ -44,9 +44,9 @@ A rede foi projetada para suportar uma infraestrutura robusta com os seguintes a
 * **Servidores Dedicados:** DHCP, DNS, NTP, Backup, Câmeras, Web, FTP e E-mail.
 * **Periféricos:** 5 Impressoras de rede.
 
-## 🔒 Restrição de Segurança
-Conforme os requisitos do projeto, foi implementada uma regra de isolamento:
-> **Regra:** A rede Administrativa é isolada da rede Acadêmica. O tráfego originado na rede ADM não possui permissão de acesso aos hosts da rede Acadêmica, garantindo a integridade dos dados sensíveis.
+## 🔒 Security Restriction
+Following the project requirements, a strict isolation rule was implemented:
+> **Rule:** The Administrative network is isolated from the Academic network. Traffic originating from the ADM network is not allowed to access Academic hosts, ensuring the integrity of sensitive data.
 
 ---
 ### 👤 Autor / Author
