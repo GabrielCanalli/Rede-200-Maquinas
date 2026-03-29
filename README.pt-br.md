@@ -1,3 +1,6 @@
+# Rede-200-Maquinas
+Projeto de infraestrutura de rede segmentada para ambiente universitário, focado em segurança de dados e isolamento de tráfego (VLANs) para mais de 400 hosts.
+
 # 🌐 Projeto de Infraestrutura de Rede Universitária (413 Hosts)
 
 Este projeto apresenta a implementação de uma rede de computadores para um ambiente acadêmico e administrativo, focando em **segmentação de tráfego (VLANs)** e **segurança de dados**.
