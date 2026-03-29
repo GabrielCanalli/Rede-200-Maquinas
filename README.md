@@ -32,8 +32,8 @@ Following the project requirements, a strict isolation rule was implemented:
 
 
 
----
 
+---
 ### 👤 Autor / Author
 **Gabriel Canalli**
 *Systems Analysis and Development Student (3rd Period)*
