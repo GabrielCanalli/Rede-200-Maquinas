@@ -32,6 +32,7 @@ Conforme os requisitos do projeto, foi implementada uma regra de isolamento:
 
 
 
+
 ---
 ### 👤 Autor
 **Gabriel Canalli**
