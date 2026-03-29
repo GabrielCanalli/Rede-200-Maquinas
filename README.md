@@ -31,6 +31,7 @@ Following the project requirements, a strict isolation rule was implemented:
 6.  **Expected Result:** The ping should return "Destination Host Unreachable", confirming the security restriction is active.
 
 
+
 ---
 
 ### 👤 Autor / Author
