@@ -32,19 +32,6 @@ Following the project requirements, a strict isolation rule was implemented:
 
 ---
 
-# 🌐 Infraestrutura de Rede Universitária (413 Hosts)
-
-Este projeto apresenta a implementação de uma rede de computadores para um ambiente acadêmico e administrativo, focando em **segmentação de tráfego (VLANs)** e **segurança de dados**.
-
-## 📋 Cenário e Requisitos
-A rede foi projetada para suportar uma infraestrutura robusta com os seguintes ativos:
-* **Setor Administrativo:** 200 Máquinas + 3 Máquinas da Coordenação.
-* **Setor Acadêmico:** 9 Laboratórios (180 Máquinas no total).
-* **Infraestrutura Wi-Fi:** 20 Access Points distribuídos entre ADM e Acadêmico.
-* **Servidores Dedicados:** DHCP, DNS, NTP, Backup, Câmeras, Web, FTP e E-mail.
-* **Periféricos:** 5 Impressoras de rede.
-
----
 ### 👤 Autor / Author
 **Gabriel Canalli**
 *Systems Analysis and Development Student (3rd Period)*
