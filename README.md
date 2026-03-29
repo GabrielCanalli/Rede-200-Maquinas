@@ -30,6 +30,7 @@ Following the project requirements, a strict isolation rule was implemented:
 5.  Try to `ping` an IP address from the **Academic VLAN**.
 6.  **Expected Result:** The ping should return "Destination Host Unreachable", confirming the security restriction is active.
 
+
 ---
 
 ### 👤 Autor / Author
