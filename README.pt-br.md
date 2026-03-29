@@ -30,9 +30,7 @@ Conforme os requisitos do projeto, foi implementada uma regra de isolamento:
 5.  Tente realizar um `ping` para um IP da **VLAN Acadêmica**.
 6.  **Resultado esperado:** O ping deve retornar "Destination Host Unreachable", confirmando que a restrição de segurança está ativa.
 
-## 🔒 Restrição de Segurança
-Conforme os requisitos do projeto, foi implementada uma regra de isolamento:
-> *Regra:* A rede Administrativa é isolada da rede Acadêmica. O tráfego originado na rede ADM não possui permissão de acesso aos hosts da rede Acadêmica, garantindo a integridade dos dados sensíveis.
+
 
 ---
 ### 👤 Autor
