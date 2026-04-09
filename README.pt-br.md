@@ -22,16 +22,27 @@ Conforme os requisitos do projeto, foi implementada uma regra de isolamento:
 * **Endereçamento:** Planejamento baseado em VLSM para otimização do espaço de endereçamento IP.
 * **Segurança:** Implementação de ACLs (Access Control Lists) para bloqueio de tráfego inter-VLAN.
 
-## 🧪 Como Testar o Projeto
-1.  Faça o download do arquivo `.pkt` presente neste repositório.
-2.  Abra o arquivo no **Cisco Packet Tracer**.
-3.  Selecione um host na **VLAN Administrativa**.
-4.  Abra o Desktop > Command Prompt.
-5.  Tente realizar um `ping` para um IP da **VLAN Acadêmica**.
-6.  **Resultado esperado:** O ping deve retornar "Destination Host Unreachable", confirmando que a restrição de segurança está ativa.
+## 🧪 Guia de Testes e Demonstração
+Para validar a implementação, siga os passos abaixo no **Cisco Packet Tracer**:
 
+### 1. Validação de Serviços (Servidores)
+* **DHCP:** Em qualquer PC, acesse *Desktop > IP Configuration* e selecione **DHCP**. O host deve receber um IP, Gateway e o DNS `[IP_DNS]` automaticamente.
+* **Web (HTTP):** No navegador de qualquer host, digite `www.universidade.edu` (ou seu domínio configurado). A página deve carregar com sucesso.
+* **E-mail:** Utilize o Mail Browser para enviar mensagens entre usuários de diferentes setores.
+* **FTP:** No prompt de comando, utilize `ftp [IP_FTP]` e realize o login para validar o acesso aos arquivos.
 
+### 2. Infraestrutura Wi-Fi e Periféricos
+* **Wi-Fi:** Conecte um dispositivo sem fio aos SSIDs de cada setor. Verifique se a autenticação e a navegação estão operacionais.
+* **Impressão:** Realize um teste de conectividade (ping) entre as máquinas da coordenação e as impressoras de rede `[IP_IMPRESSORA]`.
 
+### 3. Teste de Restrição de Segurança (ACL)
+Este passo valida a regra principal de isolamento do projeto:
+1.  Selecione um host na **VLAN Administrativa**.
+2.  Abra o **Desktop > Command Prompt**.
+3.  Tente realizar um `ping` para um IP da **VLAN Acadêmica**.
+4.  **Resultado esperado:** O ping deve retornar **"Destination Host Unreachable"**, confirmando que a ACL está bloqueando o tráfego conforme o requisito.
+5.  Tente um `ping` para um host da **mesma VLAN** ou para o **Servidor Web**.
+6.  **Resultado esperado:** Sucesso (confirmando que apenas o tráfego proibido está bloqueado).
 
 ---
 ### 👤 Autor
