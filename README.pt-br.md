@@ -29,7 +29,7 @@ Para validar a implementação, siga os passos abaixo no **Cisco Packet Tracer**
 * **DHCP:** Em qualquer PC, acesse *Desktop > IP Configuration* e selecione **DHCP**. O host deve receber um IP, Gateway e o DNS `[192.168.30.10]` automaticamente.
 * **Web (HTTP):** No navegador de qualquer host, digite `www.universidade.edu` (ou seu domínio configurado). A página deve carregar com sucesso.
 * **E-mail:** Utilize o Mail Browser para enviar mensagens entre usuários de diferentes setores.
-* **FTP:** No prompt de comando, utilize `ftp [IP_FTP]` e realize o login para validar o acesso aos arquivos.
+* **FTP:** No prompt de comando, utilize `ftp [192.168.30.10]` e realize o login para validar o acesso aos arquivos.
 
 ### 2. Infraestrutura Wi-Fi e Periféricos
 * **Wi-Fi:** Conecte um dispositivo sem fio aos SSIDs de cada setor. Verifique se a autenticação e a navegação estão operacionais.
