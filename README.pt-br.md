@@ -33,7 +33,7 @@ Para validar a implementação, siga os passos abaixo no **Cisco Packet Tracer**
 
 ### 2. Infraestrutura Wi-Fi e Periféricos
 * **Wi-Fi:** Conecte um dispositivo sem fio aos SSIDs de cada setor. Verifique se a autenticação e a navegação estão operacionais.
-* **Impressão:** Realize um teste de conectividade (ping) entre as máquinas da coordenação e as impressoras de rede `[IP_IMPRESSORA]`.
+* **Impressão:** Realize um teste de conectividade (ping) entre as máquinas da coordenação e as impressoras de rede `[192.168.20.205]` (Para um impressora da rede academica) `[192.168.10.201]` (Para um impressora da rede admnistrativa).
 
 ### 3. Teste de Restrição de Segurança (ACL)
 Este passo valida a regra principal de isolamento do projeto:
