@@ -47,7 +47,7 @@ Try to perform a ping to an IP in the Academic VLAN.
 Expected result: The ping should return "Destination Host Unreachable", confirming that the ACL is blocking traffic as required.
 Try a ping to a host in the same VLAN or to the Web Server.
 Expected result: Success (confirming that only prohibited traffic is being blocked).
-👤 Author
 
+👤 Author
 Gabriel Canalli
 Systems Analysis and Development Student (3rd Semester)
