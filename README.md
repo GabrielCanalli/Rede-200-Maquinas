@@ -50,5 +50,5 @@ Expected result: Success (confirming that only prohibited traffic is being block
 
 ### 👤 Autor
 **Gabriel Canalli**
-*Estudante de Análise e Desenvolvimento de Sistemas (3º Período)*
+*Systems Analysis and Development Student (3rd Semester)*
 
