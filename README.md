@@ -48,6 +48,7 @@ Expected result: The ping should return "Destination Host Unreachable", confirmi
 Try a ping to a host in the same VLAN or to the Web Server.
 Expected result: Success (confirming that only prohibited traffic is being blocked).
 
-👤 Author
-Gabriel Canalli
-Systems Analysis and Development Student (3rd Semester)
+### 👤 Autor
+**Gabriel Canalli**
+*Estudante de Análise e Desenvolvimento de Sistemas (3º Período)*
+
