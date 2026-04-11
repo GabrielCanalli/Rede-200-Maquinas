@@ -1,50 +1,53 @@
-# Rede-200-Maquinas
-Projeto de infraestrutura de rede segmentada para ambiente universitário, focado em segurança de dados e isolamento de tráfego (VLANs) para mais de 400 hosts.
+Network-200-Machines
 
-# 🌐 Projeto de Infraestrutura de Rede Universitária (413 Hosts)
+Segmented network infrastructure project for a university environment, focused on data security and traffic isolation (VLANs) for more than 400 hosts.
 
-Este projeto apresenta a implementação de uma rede de computadores para um ambiente acadêmico e administrativo, focando em **segmentação de tráfego (VLANs)** e **segurança de dados**.
+🌐 University Network Infrastructure Project (413 Hosts)
 
-## 📋 Cenário e Requisitos
-A rede foi projetada para suportar uma infraestrutura robusta com os seguintes ativos:
-* **Setor Administrativo:** 200 Máquinas + 3 Máquinas da Coordenação.
-* **Setor Acadêmico:** 9 Laboratórios (180 Máquinas no total).
-* **Infraestrutura Wi-Fi:** 20 Access Points distribuídos entre ADM e Acadêmico.
-* **Servidores Dedicados:** DHCP, DNS, NTP, Backup, Câmeras, Web, FTP e E-mail.
-* **Periféricos:** 5 Impressoras de rede.
+This project presents the implementation of a computer network for an academic and administrative environment, focusing on traffic segmentation (VLANs) and data security.
 
-## 🔒 Restrição de Segurança
-Conforme os requisitos do projeto, foi implementada uma regra de isolamento:
-> **Regra:** A rede Administrativa é isolada da rede Acadêmica. O tráfego originado na rede ADM não possui permissão de acesso aos hosts da rede Acadêmica, garantindo a integridade dos dados sensíveis.
+📋 Scenario and Requirements
 
-## 🛠️ Detalhes Técnicos
-* **Segmentação:** Utilização de VLANs para separar os domínios de broadcast.
-* **Endereçamento:** Planejamento baseado em VLSM para otimização do espaço de endereçamento IP.
-* **Segurança:** Implementação de ACLs (Access Control Lists) para bloqueio de tráfego inter-VLAN.
+The network was designed to support a robust infrastructure with the following assets:
 
-## 🧪 Guia de Testes e Demonstração
-Para validar a implementação, siga os passos abaixo no **Cisco Packet Tracer**:
+Administrative Sector: 200 Machines + 3 Coordination Machines.
+Academic Sector: 9 Laboratories (180 Machines in total).
+Wi-Fi Infrastructure: 20 Access Points distributed between Administrative and Academic sectors.
+Dedicated Servers: DHCP, DNS, NTP, Backup, Cameras, Web, FTP, and Email.
+Peripherals: 5 Network printers.
+🔒 Security Restriction
 
-### 1. Validação de Serviços (Servidores)
-* **DHCP:** Em qualquer PC, acesse *Desktop > IP Configuration* e selecione **DHCP**. O host deve receber um IP, Gateway e o DNS `[192.168.30.10]` automaticamente.
-* **Web (HTTP):** No navegador de qualquer host, digite `www.rede.com` (ou seu domínio configurado). A página deve carregar com sucesso.
-* **E-mail:** Utilize o Mail Browser para enviar mensagens entre usuários de diferentes setores.
-* **FTP:** No prompt de comando, utilize `ftp [192.168.30.10]` e realize o login para validar o acesso aos arquivos.
+According to the project requirements, an isolation rule was implemented:
 
-### 2. Infraestrutura Wi-Fi e Periféricos
-* **Wi-Fi:** Conecte um dispositivo sem fio aos SSIDs de cada setor. Verifique se a autenticação e a navegação estão operacionais.
-* **Impressão:** Realize um teste de conectividade (ping) entre as máquinas da coordenação e as impressoras de rede `[192.168.20.205]` (Para um impressora da rede academica) `[192.168.10.201]` (Para um impressora da rede admnistrativa).
+Rule: The Administrative network is isolated from the Academic network. Traffic originating from the Administrative network is not allowed to access hosts in the Academic network, ensuring the integrity of sensitive data.
 
-### 3. Teste de Restrição de Segurança (ACL)
-Este passo valida a regra principal de isolamento do projeto:
-1.  Selecione um host na **VLAN Administrativa**.
-2.  Abra o **Desktop > Command Prompt**.
-3.  Tente realizar um `ping` para um IP da **VLAN Acadêmica**.
-4.  **Resultado esperado:** O ping deve retornar **"Destination Host Unreachable"**, confirmando que a ACL está bloqueando o tráfego conforme o requisito.
-5.  Tente um `ping` para um host da **mesma VLAN** ou para o **Servidor Web**.
-6.  **Resultado esperado:** Sucesso (confirmando que apenas o tráfego proibido está bloqueado).
+🛠️ Technical Details
+Segmentation: Use of VLANs to separate broadcast domains.
+Addressing: Planning based on VLSM to optimize IP address space.
+Security: Implementation of ACLs (Access Control Lists) to block inter-VLAN traffic.
+🧪 Testing and Demonstration Guide
 
----
-### 👤 Autor
-**Gabriel Canalli**
-*Estudante de Análise e Desenvolvimento de Sistemas (3º Período)*
+To validate the implementation, follow the steps below in Cisco Packet Tracer:
+
+1. Service Validation (Servers)
+DHCP: On any PC, go to Desktop > IP Configuration and select DHCP. The host should automatically receive an IP, Gateway, and DNS [192.168.30.10].
+Web (HTTP): In any host’s browser, type www.rede.com (or your configured domain). The page should load successfully.
+Email: Use the Mail Browser to send messages between users from different sectors.
+FTP: In the command prompt, use ftp [192.168.30.10] and log in to validate file access.
+2. Wi-Fi Infrastructure and Peripherals
+Wi-Fi: Connect a wireless device to each sector’s SSID. Verify that authentication and browsing are working.
+Printing: Perform a connectivity test (ping) between coordination machines and the network printers [192.168.20.205] (for an academic network printer) [192.168.10.201] (for an administrative network printer).
+3. Security Restriction Test (ACL)
+
+This step validates the main isolation rule of the project:
+
+Select a host in the Administrative VLAN.
+Open Desktop > Command Prompt.
+Try to perform a ping to an IP in the Academic VLAN.
+Expected result: The ping should return "Destination Host Unreachable", confirming that the ACL is blocking traffic as required.
+Try a ping to a host in the same VLAN or to the Web Server.
+Expected result: Success (confirming that only prohibited traffic is being blocked).
+👤 Author
+
+Gabriel Canalli
+Systems Analysis and Development Student (3rd Semester)
