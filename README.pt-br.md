@@ -42,7 +42,7 @@ Para validar a implementação, siga os passos abaixo no **Cisco Packet Tracer**
   <br>
 
   <p align="center">
-    <img src="./IMAGENS/Web-HTTP.png" width="1000">
+    <img src="./IMAGENS/Web-HTTP" width="1000">
   </p>
 
 * **E-mail:** Utilize o Mail Browser para enviar mensagens entre usuários de diferentes setores.
