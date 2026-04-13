@@ -41,6 +41,20 @@ A rede foi projetada para suportar uma infraestrutura robusta com os seguintes a
 
 
 
+<details>
+  <summary><strong>📋 View Requirements</strong></summary>
+
+  <br>
+
+  <p align="center">
+    <img src="./images/Requirements-Requisitos.png" width="500">
+  </p>
+
+</details>
+
+
+
+
 
 
 
