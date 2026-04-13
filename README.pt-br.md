@@ -12,6 +12,7 @@ A rede foi projetada para suportar uma infraestrutura robusta com os seguintes a
 * **Infraestrutura Wi-Fi:** 20 Access Points distribuídos entre ADM e Acadêmico.
 * **Servidores Dedicados:** DHCP, DNS, NTP, Backup, Câmeras, Web, FTP e E-mail.
 * **Periféricos:** 5 Impressoras de rede.
+* ![Requirements-Requisitos](./IMAGENS/Requirements-Requisitos.png)
 
 ## 🔒 Restrição de Segurança
 Conforme os requisitos do projeto, foi implementada uma regra de isolamento:
@@ -44,7 +45,6 @@ Este passo valida a regra principal de isolamento do projeto:
 5.  Tente um `ping` para um host da **mesma VLAN** ou para o **Servidor Web**.
 6.  **Resultado esperado:** Sucesso (confirmando que apenas o tráfego proibido está bloqueado).
 
-7.  ![Requirements-Requisitos](./IMAGENS/Requirements-Requisitos.png)
 
 ---
 ### 👤 Autor
