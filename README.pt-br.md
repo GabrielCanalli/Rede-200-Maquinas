@@ -18,7 +18,7 @@ A rede foi projetada para suportar uma infraestrutura robusta com os seguintes a
   <br>
 
   <p align="center">
-    <img src="./IMAGENS/Requirements-Requisitos.png" width="800">
+    <img src="./IMAGENS/Requirements-Requisitos.png" width="1000">
   </p>
 
 </details>
