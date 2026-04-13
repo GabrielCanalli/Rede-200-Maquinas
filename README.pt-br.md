@@ -13,35 +13,6 @@ A rede foi projetada para suportar uma infraestrutura robusta com os seguintes a
 * **Servidores Dedicados:** DHCP, DNS, NTP, Backup, Câmeras, Web, FTP e E-mail.
 * **Periféricos:** 5 Impressoras de rede.
 * <details>
-  <summary>📡 Ver imagem dos requisistos </summary>
-
-  ![Requirements-Requisitos](./IMAGENS/Requirements-Requisitos.png)
-
-</details>
-
-
-
-
-
-
-<details>
-  <summary><strong>📡 VER IMAGEM DOS REQUISITOS</strong></summary>
-
-  <br>
-
-  <p align="center">
-    <img src="./images/Requirements-Requisitos.png" width="500">
-  </p>
-
-</details>
-
-
-
-
-
-
-
-<details>
   <summary><strong>📋 View Requirements</strong></summary>
 
   <br>
@@ -51,15 +22,6 @@ A rede foi projetada para suportar uma infraestrutura robusta com os seguintes a
   </p>
 
 </details>
-
-
-
-
-
-
-
-
-
 ## 🔒 Restrição de Segurança
 Conforme os requisitos do projeto, foi implementada uma regra de isolamento:
 > **Regra:** A rede Administrativa é isolada da rede Acadêmica. O tráfego originado na rede ADM não possui permissão de acesso aos hosts da rede Acadêmica, garantindo a integridade dos dados sensíveis.
