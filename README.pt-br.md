@@ -25,7 +25,7 @@ A rede foi projetada para suportar uma infraestrutura robusta com os seguintes a
 
 <details>
   <summary>
-    <h3>👉📋 Ver Requisitos do Projeto 👈</h3>
+    <h3>📋 👉 View Project Requirements 👈</h3>
   </summary>
 
   <br>
@@ -35,55 +35,6 @@ A rede foi projetada para suportar uma infraestrutura robusta com os seguintes a
   </p>
 
 </details>
-
-
-
-
-<details>
-  <summary>
-    <h3>▶️ <b>CLICK TO VIEW REQUIREMENTS</b> 📋</h3>
-  </summary>
-
-  <br>
-
-  <p align="center">
-    <img src="./images/Requirements-Requisitos.png" width="700">
-  </p>
-
-</details>
-
-
-
-
-
-
-
-<summary>
-  <h3>🟦 👉 Ver Requisitos do Projeto 👈</h3>
-</summary>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
