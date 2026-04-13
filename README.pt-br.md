@@ -12,9 +12,8 @@ A rede foi projetada para suportar uma infraestrutura robusta com os seguintes a
 * **Infraestrutura Wi-Fi:** 20 Access Points distribuídos entre ADM e Acadêmico.
 * **Servidores Dedicados:** DHCP, DNS, NTP, Backup, Câmeras, Web, FTP e E-mail.
 * **Periféricos:** 5 Impressoras de rede.
-<p align="center">
-  <img src="./IMAGENS/Requirements-Requisitos.png" width="700">
-</p>
+* ![Requirements-Requisitos](./IMAGENS/Requirements-Requisitos.png)
+
 
 
 ## 🔒 Restrição de Segurança
