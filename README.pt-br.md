@@ -13,7 +13,7 @@ A rede foi projetada para suportar uma infraestrutura robusta com os seguintes a
 * **Servidores Dedicados:** DHCP, DNS, NTP, Backup, Câmeras, Web, FTP e E-mail.
 * **Periféricos:** 5 Impressoras de rede.
 * <details>
-  <summary><strong>📋 Ver Requisitos</strong></summary>
+  <summary><strong>👉 Ver Requisitos</strong></summary> 👈
 
   <br>
 
