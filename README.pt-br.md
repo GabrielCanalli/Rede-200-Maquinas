@@ -21,24 +21,6 @@ A rede foi projetada para suportar uma infraestrutura robusta com os seguintes a
     <img src="./IMAGENS/Requirements-Requisitos.png" width="1000">
   </p>
 
-
-
-<details>
-  <summary>
-    <h3>📋 👉 View Project Requirements 👈</h3>
-  </summary>
-
-  <br>
-
-  <p align="center">
-    <img src="./images/Requirements-Requisitos.png" width="700">
-  </p>
-
-</details>
-
-
-
-</details>
 ## 🔒 Restrição de Segurança
 Conforme os requisitos do projeto, foi implementada uma regra de isolamento:
 > **Regra:** A rede Administrativa é isolada da rede Acadêmica. O tráfego originado na rede ADM não possui permissão de acesso aos hosts da rede Acadêmica, garantindo a integridade dos dados sensíveis.
