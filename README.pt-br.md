@@ -37,7 +37,7 @@ Para validar a implementação, siga os passos abaixo no **Cisco Packet Tracer**
 * **DHCP:** Em qualquer PC, acesse *Desktop > IP Configuration* e selecione **DHCP**. O host deve receber um IP, Gateway e o DNS `[192.168.30.10]` automaticamente.
 * **Web (HTTP):** No navegador de qualquer host, digite `www.rede.com` (ou seu domínio configurado). A página deve carregar com sucesso.
 * <details>
-  <summary><strong>👉 Ver Requisitos👈</strong></summary> 
+  <summary><strong>👉 Ver o Site👈</strong></summary> 
 
   <br>
 
