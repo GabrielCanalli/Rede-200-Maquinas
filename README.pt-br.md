@@ -41,10 +41,9 @@ Para validar a implementação, siga os passos abaixo no **Cisco Packet Tracer**
   <br>
 
   <p align="center">
-    <video width="1000" controls>
-      <source src="./IMAGENS/DHCP-Test.mp4" type="video/mp4">
-      Seu navegador não suporta vídeo.
-    </video>
+    <a href="https://youtu.be/YSQG_PBK8Nk">
+      ▶️ Clique aqui para assistir o teste DHCP no YouTube
+    </a>
   </p>
 </details>
 * **Web (HTTP):** No navegador de qualquer host, digite `www.rede.com` (ou seu domínio configurado). A página deve carregar com sucesso.
