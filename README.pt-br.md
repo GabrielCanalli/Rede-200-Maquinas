@@ -35,6 +35,18 @@ Para validar a implementação, siga os passos abaixo no **Cisco Packet Tracer**
 
 ### 1. Validação de Serviços (Servidores)
 * **DHCP:** Em qualquer PC, acesse *Desktop > IP Configuration* e selecione **DHCP**. O host deve receber um IP, Gateway e o DNS `[192.168.30.10]` automaticamente.
+* <details>
+  <summary><strong>👉 Ver Teste do DHCP👈</strong></summary>
+
+  <br>
+
+  <p align="center">
+    <video width="1000" controls>
+      <source src="./IMAGENS/DHCP-Test.mp4" type="video/mp4">
+      Seu navegador não suporta vídeo.
+    </video>
+  </p>
+</details>
 * **Web (HTTP):** No navegador de qualquer host, digite `www.rede.com` (ou seu domínio configurado). A página deve carregar com sucesso.
 * <details>
   <summary><strong>👉 Ver o Site👈</strong></summary> 
