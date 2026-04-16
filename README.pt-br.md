@@ -58,7 +58,8 @@ Para validar a implementação, siga os passos abaixo no **Cisco Packet Tracer**
   </p>
 
 * **E-mail:** Utilize o Mail Browser para enviar mensagens entre usuários de diferentes setores.
-* <summary><strong>👉 Ver Teste do GAMIL👈</strong></summary>
+* <details>
+* <summary><strong>👉 Ver Teste do GMAIL👈</strong></summary>
 
   <br>
 
