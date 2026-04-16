@@ -58,6 +58,17 @@ Para validar a implementação, siga os passos abaixo no **Cisco Packet Tracer**
   </p>
 
 * **E-mail:** Utilize o Mail Browser para enviar mensagens entre usuários de diferentes setores.
+* <summary><strong>👉 Ver Teste do DHCP👈</strong></summary>
+
+  <br>
+
+  <p align="center">
+    <a href="https://youtu.be/YSQG_PBK8Nk">
+      ▶️ Clique aqui para assistir o teste GMAIL no YouTube
+    </a>
+  </p>
+</details>
+
 * **FTP:** No prompt de comando, utilize `ftp [192.168.30.10]` e realize o login para validar o acesso aos arquivos.
 
 ### 2. Infraestrutura Wi-Fi e Periféricos
