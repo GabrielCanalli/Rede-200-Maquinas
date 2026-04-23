@@ -64,7 +64,7 @@ Para validar a implementação, siga os passos abaixo no **Cisco Packet Tracer**
   <br>
 
   <p align="center">
-    <a href="https://youtu.be/YSQG_PBK8Nk">
+    <a href="https://youtu.be/FvvcAc9ALIA">
       ▶️ Clique aqui para assistir o teste GMAIL no YouTube
     </a>
   </p>
