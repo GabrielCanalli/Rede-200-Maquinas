@@ -12,7 +12,7 @@ The network was designed to support a robust infrastructure with the following a
 * **Wi-Fi Infrastructure:** 20 Access Points distributed between Administrative and Academic areas.
 * **Dedicated Servers:** DHCP, DNS, NTP, Backup, Cameras, Web, FTP, and Email.
 * **Peripherals:** 5 Network Printers.
-*  <details>
+* <details>
   <summary><strong>👉 Ver Requisitos👈</strong></summary> 
 
   <br>
