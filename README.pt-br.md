@@ -78,7 +78,7 @@ Para validar a implementação, siga os passos abaixo no **Cisco Packet Tracer**
 
   <p align="center">
     <a href="LINK">
-      ▶️ Clique aqui para assistir o teste GMAIL no YouTube
+      ▶️ Clique aqui para assistir o teste FTP no YouTube
     </a>
   </p>
 </details>
