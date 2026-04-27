@@ -71,6 +71,19 @@ Para validar a implementação, siga os passos abaixo no **Cisco Packet Tracer**
 </details>
 
 * **FTP:** No prompt de comando, utilize `ftp [192.168.30.10]` e realize o login para validar o acesso aos arquivos.
+* <details>
+  <summary><strong>👉 Ver Teste do GMAIL👈</strong></summary>
+
+  <br>
+
+  <p align="center">
+    <a href="https://youtu.be/FvvcAc9ALIA">
+      ▶️ Clique aqui para assistir o teste GMAIL no YouTube
+    </a>
+  </p>
+</details>
+
+
 
 ### 2. Infraestrutura Wi-Fi e Periféricos
 * **Wi-Fi:** Conecte um dispositivo sem fio aos SSIDs de cada setor. Verifique se a autenticação e a navegação estão operacionais.
