@@ -35,6 +35,18 @@ To validate the implementation, follow the steps below in **Cisco Packet Tracer*
 
 ### 1. Service Validation (Servers)
 * **DHCP:** On any PC, go to *Desktop > IP Configuration* and select **DHCP**. The host should automatically receive an IP, Gateway, and DNS `[192.168.30.10]`.
+* <details>
+  <summary><strong>👉 Ver Teste do DHCP👈</strong></summary>
+
+  <br>
+
+  <p align="center">
+    <a href="https://youtu.be/YSQG_PBK8Nk">
+      ▶️ Clique aqui para assistir o teste DHCP no YouTube
+    </a>
+  </p>
+</details>
+
 * **Web (HTTP):** In the browser of any host, type `www.rede.com` (or your configured domain). The page should load successfully.
 * **E-mail:** Use the Mail Browser to send messages between users from different sectors.
 * **FTP:** In the command prompt, use `ftp [192.168.30.10]` and log in to validate file access.
