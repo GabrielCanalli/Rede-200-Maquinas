@@ -48,6 +48,15 @@ To validate the implementation, follow the steps below in **Cisco Packet Tracer*
 </details>
 
 * **Web (HTTP):** In the browser of any host, type `www.rede.com` (or your configured domain). The page should load successfully.
+* <details>
+  <summary><strong>👉 Ver o Teste HTTP👈</strong></summary> 
+
+  <br>
+
+  <p align="center">
+    <img src="./IMAGENS/Web-HTTP.png" width="1000">
+  </p>
+
 * **E-mail:** Use the Mail Browser to send messages between users from different sectors.
 * **FTP:** In the command prompt, use `ftp [192.168.30.10]` and log in to validate file access.
 
