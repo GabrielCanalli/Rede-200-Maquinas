@@ -58,6 +58,18 @@ To validate the implementation, follow the steps below in **Cisco Packet Tracer*
   </p>
 
 * **E-mail:** Use the Mail Browser to send messages between users from different sectors.
+* <details>
+  <summary><strong>👉 Ver Teste do GMAIL👈</strong></summary>
+
+  <br>
+
+  <p align="center">
+    <a href="https://youtu.be/FvvcAc9ALIA">
+      ▶️ Clique aqui para assistir o teste GMAIL no YouTube
+    </a>
+  </p>
+</details>
+
 * **FTP:** In the command prompt, use `ftp [192.168.30.10]` and log in to validate file access.
 * <details>
   <summary><strong>👉 Ver Teste do FTP👈</strong></summary>
