@@ -49,7 +49,7 @@ To validate the implementation, follow the steps below in **Cisco Packet Tracer*
 
 * **Web (HTTP):** In the browser of any host, type `www.rede.com` (or your configured domain). The page should load successfully.
 * <details>
-  <summary><strong>👉 Ver o Teste HTTP👈</strong></summary> 
+  <summary><strong>👉 View HTTP Test 👈</strong></summary> 
 
   <br>
 
