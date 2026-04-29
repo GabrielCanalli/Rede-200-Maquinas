@@ -59,6 +59,20 @@ To validate the implementation, follow the steps below in **Cisco Packet Tracer*
 
 * **E-mail:** Use the Mail Browser to send messages between users from different sectors.
 * **FTP:** In the command prompt, use `ftp [192.168.30.10]` and log in to validate file access.
+*  <details>
+  <summary><strong>👉 Ver Teste do FTP👈</strong></summary>
+
+  <br>
+
+  <p align="center">
+    <a href="LINK">
+      ▶️ Clique aqui para assistir o teste FTP no YouTube
+    </a>
+  </p>
+</details>
+
+
+
 
 ### 2. Wi-Fi Infrastructure and Peripherals
 * **Wi-Fi:** Connect a wireless device to the SSIDs of each sector. Verify that authentication and browsing are working properly.
