@@ -59,7 +59,7 @@ To validate the implementation, follow the steps below in **Cisco Packet Tracer*
 
 * **E-mail:** Use the Mail Browser to send messages between users from different sectors.
 * **FTP:** In the command prompt, use `ftp [192.168.30.10]` and log in to validate file access.
-*  <details>
+* <details>
   <summary><strong>👉 Ver Teste do FTP👈</strong></summary>
 
   <br>
