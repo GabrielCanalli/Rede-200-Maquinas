@@ -72,7 +72,7 @@ Para validar a implementação, siga os passos abaixo no **Cisco Packet Tracer**
 
 * **FTP:** No prompt de comando, utilize `ftp [192.168.30.10]` e realize o login para validar o acesso aos arquivos.
 * <details>
-  <summary><strong>👉 Ver Teste do FTP👈</strong></summary>
+  <summary><strong>👉 Ver Teste do FTP 👈</strong></summary>
 
   <br>
 
