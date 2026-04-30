@@ -98,16 +98,13 @@ Este passo valida a regra principal de isolamento do projeto:
 5.  Tente um `ping` para um host da **mesma VLAN** ou para o **Servidor Web**.
 6.  **Resultado esperado:** Sucesso (confirmando que apenas o tráfego proibido está bloqueado).
 7.  <details>
-  <summary><strong>👉  👈</strong></summary> 
+    <summary><strong>👉  👈</strong></summary> 
 
-  <br>
+    <br>
 
-  <p align="center">
-    <img src="./IMAGENS/Requirements-Requisitos.png" width="1000">
-  </p>
-
-
-
+    <p align="center">
+      <img src="./IMAGENS/Requirements-Requisitos.png" width="1000">
+    </p>
 
 ---
 ### 👤 Autor
