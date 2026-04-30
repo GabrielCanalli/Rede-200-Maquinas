@@ -97,7 +97,7 @@ Este passo valida a regra principal de isolamento do projeto:
 4.  **Resultado esperado:** O ping deve retornar **"Destination Host Unreachable"**, confirmando que a ACL está bloqueando o tráfego conforme o requisito.
 5.  Tente um `ping` para um host da **mesma VLAN** ou para o **Servidor Web**.
 6.  **Resultado esperado:** Sucesso (confirmando que apenas o tráfego proibido está bloqueado).
-7. <details>
+7.  <details>
   <summary><strong>👉  👈</strong></summary> 
 
   <br>
