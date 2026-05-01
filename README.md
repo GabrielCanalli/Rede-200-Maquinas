@@ -98,6 +98,15 @@ This step validates the main isolation rule of the project:
 4. **Expected result:** The ping should return **"Destination Host Unreachable"**, confirming that the ACL is blocking the traffic as required.
 5. Try a `ping` to a host in the **same VLAN** or to the **Web Server**.
 6. **Expected result:** Success (confirming that only restricted traffic is blocked).
+7. <details>
+    <summary><strong>👉 Ver Teste de Segurança (ACL) 👈</strong></summary> 
+
+    <br>
+
+    <p align="center">
+      <img src="./IMAGENS/Requirements-Requisitos.png" width="1000">
+    </p>
+
 
 ---
 ### 👤 Author
