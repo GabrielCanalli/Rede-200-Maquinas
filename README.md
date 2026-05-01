@@ -99,7 +99,7 @@ This step validates the main isolation rule of the project:
 5. Try a `ping` to a host in the **same VLAN** or to the **Web Server**.
 6. **Expected result:** Success (confirming that only restricted traffic is blocked).
 7. <details>
-    <summary><strong>👉 VVer Teste de Seguran 👈</strong></summary> 
+    <summary><strong>👉 VVer Teste de Segur 👈</strong></summary> 
 
     <br>
 
