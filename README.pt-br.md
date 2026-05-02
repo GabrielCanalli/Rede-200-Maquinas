@@ -104,7 +104,7 @@ Este passo valida a regra principal de isolamento do projeto:
 
     <p align="center">
     <a href="https://youtu.be/qavX0yRKnwk?si=LCtWKbSQlUwZ3PfX">
-      ▶️ Clique aqui para assistir o teste FTP no YouTube
+      ▶️ Clique aqui para assistir o teste de segurança (ACL) no YouTube
     </a>
   </p>
 </details>
