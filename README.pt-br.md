@@ -103,8 +103,11 @@ Este passo valida a regra principal de isolamento do projeto:
     <br>
 
     <p align="center">
-      <img src="./IMAGENS/Requirements-Requisitos.png" width="1000">
-    </p>
+    <a href="https://youtu.be/qavX0yRKnwk?si=LCtWKbSQlUwZ3PfX">
+      ▶️ Clique aqui para assistir o teste FTP no YouTube
+    </a>
+  </p>
+</details>
 
 ---
 ### 👤 Autor
