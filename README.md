@@ -72,7 +72,7 @@ To validate the implementation, follow the steps below in **Cisco Packet Tracer*
 
 * **FTP:** In the command prompt, use `ftp [192.168.30.10]` and log in to validate file access.
 * <details>
-  <summary><strong>👉 View FTP T 👈</strong></summary>
+  <summary><strong>👉 View FTP Te 👈</strong></summary>
 
   <br>
 
