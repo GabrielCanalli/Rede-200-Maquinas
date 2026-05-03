@@ -13,7 +13,7 @@ The network was designed to support a robust infrastructure with the following a
 * **Dedicated Servers:** DHCP, DNS, NTP, Backup, Cameras, Web, FTP, and Email.
 * **Peripherals:** 5 Network Printers.
 * <details>
-  <summary><strong>👉 Vi Requirements 👈</strong></summary> 
+  <summary><strong>👉 Vie Requirements 👈</strong></summary> 
 
   <br>
 
