@@ -59,7 +59,7 @@ To validate the implementation, follow the steps below in **Cisco Packet Tracer*
 
 * **E-mail:** Use the Mail Browser to send messages between users from different sectors.
 * <details>
-  <summary><strong>👉 View Gmail Test 👈</strong></summary>
+  <summary><strong>👉 W Gmail Test 👈</strong></summary>
 
   <br>
 
