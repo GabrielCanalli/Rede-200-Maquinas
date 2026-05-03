@@ -36,7 +36,7 @@ To validate the implementation, follow the steps below in **Cisco Packet Tracer*
 ### 1. Service Validation (Servers)
 * **DHCP:** On any PC, go to *Desktop > IP Configuration* and select **DHCP**. The host should automatically receive an IP, Gateway, and DNS `[192.168.30.10]`.
 * <details>
-  <summary><strong>👉 W DHCP Test 👈</strong></summary>
+  <summary><strong>👉 Wa DHCP Test 👈</strong></summary>
 
   <br>
 
