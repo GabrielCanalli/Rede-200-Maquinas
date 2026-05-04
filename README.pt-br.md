@@ -103,7 +103,7 @@ Este passo valida a regra principal de isolamento do projeto:
     <br>
 
     <p align="center">
-    <a href="Irei colocar">
+    <a href="Irei colocar em">
       ▶️ Clique aqui para assistir o teste de segurança (ACL) no YouTube
     </a>
   </p>
