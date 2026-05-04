@@ -41,7 +41,7 @@ Para validar a implementação, siga os passos abaixo no **Cisco Packet Tracer**
   <br>
 
   <p align="center">
-    <a href="">
+    <a href="https://youtu.be/YSQG_PBK8Nk?si=pA9HsE4aSMF1IbMO">
       ▶️ Clique aqui para assistir o teste DHCP no YouTube
     </a>
   </p>
