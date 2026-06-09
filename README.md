@@ -78,7 +78,7 @@ To validate the implementation, follow the steps below in **Cisco Packet Tracer*
 
   <p align="center">
     <a href="https://youtu.be/qavX0yRKnwk?si=LCtWKbSQlUwZ3PfX">
-      ▶️ Clique aqui para assistir o teste FTP no YouTube
+      ▶️ Click here to watch the FTP test on YouTube
     </a>
   </p>
 </details>
