@@ -65,7 +65,7 @@ To validate the implementation, follow the steps below in **Cisco Packet Tracer*
 
   <p align="center">
     <a href="https://youtu.be/FvvcAc9ALIA">
-      ▶️ Clique aqui para assistir o teste EMAIL no YouTube
+      ▶️ Click here to watch the FTP test on YouTube.
     </a>
   </p>
 </details>
