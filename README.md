@@ -42,7 +42,7 @@ To validate the implementation, follow the steps below in **Cisco Packet Tracer*
 
   <p align="center">
     <a href="https://youtu.be/YSQG_PBK8Nk">
-      ▶️ Clique aqui para assistir o teste DHCP no YouTube
+      ▶️ Click here to watch the FTP test on YouTube.
     </a>
   </p>
 </details>
